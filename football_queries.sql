@@ -1,0 +1,1 @@
+SELECT * FROM matches WHERE LOWER(hometeam) LIKE LOWER('%City%');
